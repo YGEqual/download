@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string></string>
+                        <string>https://www.baidu.com/s?wd=黑洞&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pc</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string></string>
+                        <string>https://www.baidu.com/s?wd=黑洞&sa=ire_dl_gh_logo&rsv_dl=igh_logo_pc</string>
                     </dict>
                     <a href="itms-services://?action=download-manifest&url=https://github.com/YGEqual/download/blob/master/demo.plist">ios下载</a>
                 </array>
