@@ -33,15 +33,15 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.Youuai</string>
+                    <string>com.xysx.tdxhsc</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>天大宣怀学院11</string>
+                    <string>天大宣怀双创</string>
                     <key>title</key>
-                    <string>天大宣怀学院1</string>
+                    <string>天大宣怀双创</string>
                 </dict>
             </dict>
         </array>
